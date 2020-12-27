@@ -4,7 +4,7 @@ It consists of Responsive Navbar, buttons and icons.
 
 
 ---
-## Something new that I learnt while building this project is:
+## Something new that I learnt while building this project are:
 - How to use Grid Layout effectively
 - nth-child property
 - not property
