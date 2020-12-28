@@ -12,4 +12,4 @@ The focus of this project is to use pure CSS to create Instagram Logo.
 
 ---
 ## The Outcome:
-![Instagram Logo](Screenshot1_2.png)
+![Instagram Logo](ss2.png)
