@@ -1,0 +1,28 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css";
+.container {
+    margin-top: 280px;
+}
+
+body {
+    background: #fafafa;
+}
+
+.google {
+    border-top-left-radius: 32px !important;
+    border-bottom-left-radius: 32px !important;
+    background: #fff;
+}
+
+.microphone {
+    border-top-right-radius: 32px !important;
+    border-bottom-right-radius: 32px !important;
+    background: #fff;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #ced4da;
+    outline: none;
+    box-shadow: 0 0 0 0 !important;
+}
